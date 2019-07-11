@@ -1,0 +1,45 @@
+body{
+  background-color: #2c2e61;
+  width: 50%;
+  text-align: center;
+}
+
+header{
+  display:block;
+}
+
+h1{
+  color: #5FC29D;
+  font-family: "Arial Black", Gadget, Sans-serif;
+  text-align: center;
+}
+
+h2{
+  color:#ebdfcc;
+  font-family: "Arial Black", Gadget, Sans-serif;
+  text-align: center;
+}
+
+h3{
+  color:white;
+  font-family: "Arial Black", Gadget, Sans-serif;
+  text-align: center;
+}
+
+p{
+  color:white;
+  text-align: center;
+  font-family: "Arial Black", Gadget, Sans-serif;
+}
+
+a:link, a:visited {
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active{
+  background-color:  #DDA4B9;
+}
